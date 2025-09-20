@@ -1,0 +1,32 @@
+﻿# Visual Studio files
+.vs/
+.vsconfig
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.module
+*.lib
+
+# Unreal Generated Folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Config files we don't need
+Saved/Config/CrashReportClient/
+Saved/Crashes/
+Saved/Logs/
+
+# Starter content
+Content/StarterContent/
+Content/FirstPerson/
+Content/ThirdPersonBP/
